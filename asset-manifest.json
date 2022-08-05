@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/pizzaWeb/static/css/main.1efeb5da.css",
-    "main.js": "/pizzaWeb/static/js/main.13011848.js",
+    "main.css": "/pizzaWeb/static/css/main.be3a41dd.css",
+    "main.js": "/pizzaWeb/static/js/main.b9312c48.js",
     "static/css/694.205b8125.chunk.css": "/pizzaWeb/static/css/694.205b8125.chunk.css",
     "static/js/694.8faba992.chunk.js": "/pizzaWeb/static/js/694.8faba992.chunk.js",
-    "static/css/199.896dd5b3.chunk.css": "/pizzaWeb/static/css/199.896dd5b3.chunk.css",
+    "static/css/199.26cfc6ea.chunk.css": "/pizzaWeb/static/css/199.26cfc6ea.chunk.css",
     "static/js/199.cfc1e654.chunk.js": "/pizzaWeb/static/js/199.cfc1e654.chunk.js",
     "static/css/711.224d7083.chunk.css": "/pizzaWeb/static/css/711.224d7083.chunk.css",
     "static/js/711.0a837a0b.chunk.js": "/pizzaWeb/static/js/711.0a837a0b.chunk.js",
@@ -12,9 +12,9 @@
     "static/js/699.45bb0e92.chunk.js": "/pizzaWeb/static/js/699.45bb0e92.chunk.js",
     "static/css/144.800d0955.chunk.css": "/pizzaWeb/static/css/144.800d0955.chunk.css",
     "static/js/144.f5e524e7.chunk.js": "/pizzaWeb/static/js/144.f5e524e7.chunk.js",
-    "static/css/388.69cccbf0.chunk.css": "/pizzaWeb/static/css/388.69cccbf0.chunk.css",
+    "static/css/388.909c761a.chunk.css": "/pizzaWeb/static/css/388.909c761a.chunk.css",
     "static/js/388.7acc5d82.chunk.js": "/pizzaWeb/static/js/388.7acc5d82.chunk.js",
-    "static/css/430.a027d83c.chunk.css": "/pizzaWeb/static/css/430.a027d83c.chunk.css",
+    "static/css/430.9c579a3a.chunk.css": "/pizzaWeb/static/css/430.9c579a3a.chunk.css",
     "static/js/430.238411aa.chunk.js": "/pizzaWeb/static/js/430.238411aa.chunk.js",
     "static/css/493.913c0010.chunk.css": "/pizzaWeb/static/css/493.913c0010.chunk.css",
     "static/js/493.be32edff.chunk.js": "/pizzaWeb/static/js/493.be32edff.chunk.js",
@@ -23,11 +23,11 @@
     "static/media/png": "/pizzaWeb/static/media/b2f3a5d5afe44516a93cfc0d2ee60088.f9b5270af75190405ba2.png",
     "static/media/success.png": "/pizzaWeb/static/media/success.47854776ed57d33d90be.png",
     "index.html": "/pizzaWeb/index.html",
-    "main.1efeb5da.css.map": "/pizzaWeb/static/css/main.1efeb5da.css.map",
-    "main.13011848.js.map": "/pizzaWeb/static/js/main.13011848.js.map",
+    "main.be3a41dd.css.map": "/pizzaWeb/static/css/main.be3a41dd.css.map",
+    "main.b9312c48.js.map": "/pizzaWeb/static/js/main.b9312c48.js.map",
     "694.205b8125.chunk.css.map": "/pizzaWeb/static/css/694.205b8125.chunk.css.map",
     "694.8faba992.chunk.js.map": "/pizzaWeb/static/js/694.8faba992.chunk.js.map",
-    "199.896dd5b3.chunk.css.map": "/pizzaWeb/static/css/199.896dd5b3.chunk.css.map",
+    "199.26cfc6ea.chunk.css.map": "/pizzaWeb/static/css/199.26cfc6ea.chunk.css.map",
     "199.cfc1e654.chunk.js.map": "/pizzaWeb/static/js/199.cfc1e654.chunk.js.map",
     "711.224d7083.chunk.css.map": "/pizzaWeb/static/css/711.224d7083.chunk.css.map",
     "711.0a837a0b.chunk.js.map": "/pizzaWeb/static/js/711.0a837a0b.chunk.js.map",
@@ -35,9 +35,9 @@
     "699.45bb0e92.chunk.js.map": "/pizzaWeb/static/js/699.45bb0e92.chunk.js.map",
     "144.800d0955.chunk.css.map": "/pizzaWeb/static/css/144.800d0955.chunk.css.map",
     "144.f5e524e7.chunk.js.map": "/pizzaWeb/static/js/144.f5e524e7.chunk.js.map",
-    "388.69cccbf0.chunk.css.map": "/pizzaWeb/static/css/388.69cccbf0.chunk.css.map",
+    "388.909c761a.chunk.css.map": "/pizzaWeb/static/css/388.909c761a.chunk.css.map",
     "388.7acc5d82.chunk.js.map": "/pizzaWeb/static/js/388.7acc5d82.chunk.js.map",
-    "430.a027d83c.chunk.css.map": "/pizzaWeb/static/css/430.a027d83c.chunk.css.map",
+    "430.9c579a3a.chunk.css.map": "/pizzaWeb/static/css/430.9c579a3a.chunk.css.map",
     "430.238411aa.chunk.js.map": "/pizzaWeb/static/js/430.238411aa.chunk.js.map",
     "493.913c0010.chunk.css.map": "/pizzaWeb/static/css/493.913c0010.chunk.css.map",
     "493.be32edff.chunk.js.map": "/pizzaWeb/static/js/493.be32edff.chunk.js.map",
@@ -45,7 +45,7 @@
     "665.173c7567.chunk.js.map": "/pizzaWeb/static/js/665.173c7567.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1efeb5da.css",
-    "static/js/main.13011848.js"
+    "static/css/main.be3a41dd.css",
+    "static/js/main.b9312c48.js"
   ]
 }
